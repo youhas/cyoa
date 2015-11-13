@@ -1,0 +1,30 @@
+##test_story##
+This is a test story!  It's merely written to see if or how badly it breaks my cyoa.py script.
+
+#awesome# "But I'm sure your script is awesome!"
+#less_awesome# "I hope your script dies in a fire!"
+
+::no ending should be here::
+
+##awesome##
+Thank you for thinking well of me, internet compatriot!  Please enjoy this Amazon gift card as a token of my gratitude.
+
+::vanilla happy ending, yay::
+
+##less_awesome##
+OK.  What sort of fire?
+
+#void_fire# Fire I will not remember to share details of.
+#fire_without_content# Fire link I will fail to flesh out.
+#fire_without_conclusion# Fire link wherein I trail off.
+#hendrix_rules# "Fire" by the Jimi Hendrix Experience.
+
+##hendrix_rules##
+That is, indeed, an awesome song.
+
+::queues it up on Spotify::
+
+##fire_without_content##
+
+##fire_without_conclusion##
+I saw enough fires in the war!  I would type more, but I need to look out for Charlies at the moment.
